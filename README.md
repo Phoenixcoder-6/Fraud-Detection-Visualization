@@ -9,7 +9,7 @@ Geo-Temporal Tracking: Visualizes fraud hotspots using custom coordinate mapping
 
 Dynamic Alert System: Features parameter-driven risk thresholds that trigger real-time alerts when transactions exceed configurable risk parameters.
 
-Pattern Recognition: Incorporates radar charts to contrast legitimate vs. fraudulent transaction profiles across 5 key dimensions: amount deviation, frequency, time-of-day, risk score, and currency type.
+Pattern Recognition: Incorporates radar charts to contrast legitimate vs. fraudulent transaction profiles across 5 key dimensions: amount deviation, frequency, time-of-day, risk score, and currency type
 
 The technical workflow includes:
 
